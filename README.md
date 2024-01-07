@@ -1,2 +1,1 @@
-# SmoothSpeakStudio
-Using HTML, CSS, JavaScript and Bootstrap 
+# Smooth_speak
